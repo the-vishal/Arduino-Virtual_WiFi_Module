@@ -1,7 +1,8 @@
 # Arduino-Virtual_WiFi_Module
 Purpose : Performing IoT with arduino without WiFi Module
 
-Q: Problem in finding your arduino connected PORT ?
+Q: Problem in finding your arduino connected PORT?
+
 Ans : run PORTS_Checker script.
  
 
