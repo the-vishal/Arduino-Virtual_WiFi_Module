@@ -10,7 +10,7 @@ Ans : run PORTS_Checker script.
  
  *Change PORT Number according to your Connected usb port of arduino.
  
- *Change Push Bullet API Key before using it.
+ *Change Push Bullet API Key before using it (If there is in Program).
  
  *Connect an LED to pin 13 of arduino and ground pin.
  
